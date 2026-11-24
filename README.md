@@ -8,4 +8,4 @@ IT Support Technician with active **CompTIA A+** and **Security+** certification
 * [Project 2: Wireshark Packet Analysis & DNS Troubleshooting](./projects/wireshark-dns.md)
 
 ## Security Projects
-*[Project 1: Honeypot project](./projects/honeypot-lab.md)
+* [Project 1: Honeypot project](./projects/honeypot-lab.md)
